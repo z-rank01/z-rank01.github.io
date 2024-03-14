@@ -1,12 +1,11 @@
+p {
+  font-size:20px;
+  color:red;
+}
+
 .standout
 {
   color:blue;
-}
-
-p
-{
-  font-size:20px;
-  color:red;
 }
 
 h2.standout
